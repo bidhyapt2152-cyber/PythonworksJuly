@@ -1,0 +1,5 @@
+###Git commands###
+
+#For adding user
+
+      --git config --global user.name
